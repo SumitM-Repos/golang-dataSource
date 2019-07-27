@@ -1,0 +1,8 @@
+{
+	"DBs": [{
+		"UserID": "root",
+		"Password": "pass",
+		"Server": "localhost",
+		"Database": "AutoWellness"
+	} ]
+}
